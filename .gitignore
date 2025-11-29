@@ -4,3 +4,6 @@
 /Isaac-GR00T/GR00T-N1.5-3B/*
 /wandb/*
 /output/*
+/attention_map/*    
+/FastVGGT/model_tracker_fixed_e20.pt
+/rollouts/*
